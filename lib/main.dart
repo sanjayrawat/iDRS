@@ -1,7 +1,7 @@
-// iDRS - Home Screen with Start New Review Integration and Ready for Testing
+
 import 'package:flutter/material.dart';
 import 'idrscam_history_screen.dart';
-import 'idrscam_flutter.dart'; // Camera + Color Picker (Start Review)
+import 'idrscam_flutter.dart';
 
 void main() {
   runApp(const MaterialApp(
