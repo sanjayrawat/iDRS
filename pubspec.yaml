@@ -1,6 +1,5 @@
-
 name: idrs
-description: Final working iDRS app with Android V2 embedding
+description: iDRS full app with Android V2 embedding
 publish_to: 'none'
 version: 1.0.0+1
 
