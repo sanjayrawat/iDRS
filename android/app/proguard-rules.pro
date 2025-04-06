@@ -1,1 +1,1 @@
-# Proguard rules for release build
+# ProGuard rules go here
